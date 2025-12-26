@@ -29,7 +29,7 @@ export default function OutroScreen() {
                     transition={{ duration: 1, delay: 0.4 }}
                     className="text-2xl md:text-3xl text-foreground text-center text-balance leading-normal drop-shadow-[0_0_8px_rgba(155,77,255,0.35)]"
                 >
-                    All this for you Nandini preety girl💖
+                    All this for you Meera preety girl💖
                 </motion.p>
 
             </motion.div>
